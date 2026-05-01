@@ -1,4 +1,4 @@
-FROM python:3.11.15-slim
+FROM python:3.11.15-alpine
 
 RUN useradd -m -u 1000 user
 USER user
