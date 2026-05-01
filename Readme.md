@@ -90,7 +90,7 @@ This solution is ideal for:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Pranava-Pai-N/BlockChain-Assignment.git
+git clone https://github.com/Pranava-Pai-N/Decentralised-Notary-System.git
 cd BlockChain-Assignment
 ```
 
@@ -293,7 +293,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For issues, questions, or suggestions:
-- Open an [GitHub Issue](https://github.com/Pranava-Pai-N/BlockChain-Assignment/issues)
+- Open an [GitHub Issue](https://github.com/Pranava-Pai-N/Decentralised-Notary-System/issues)
 - Check existing documentation
 - Review contract interactions and blockchain logs
 
@@ -309,4 +309,4 @@ This is an educational project. Before deploying to mainnet:
 
 **Last Updated**: May 2026  
 **Maintainer**: Pranava Pai N  
-**GitHub**: [Pranava-Pai-N/BlockChain-Assignment](https://github.com/Pranava-Pai-N/BlockChain-Assignment)
+**GitHub**: [Pranava-Pai-N/BlockChain-Assignment](https://github.com/Pranava-Pai-N/Decentralised-Notary-System)
